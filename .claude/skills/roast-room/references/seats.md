@@ -58,3 +58,12 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
+
+Seats added with `/newroaster`:
+
+| Seat | Agent | Pillar | Owns the question | Brain |
+|---|---|---|---|---|
+| Mello | `council-mello` | Home services and the trades | Does this make more money per call, per truck, and per tech? | `brains/tommy-mello/` |
+
+- Mello (fix booking rate, conversion, and ticket before buying more leads; never be the cheapest) against Gary V and Graham (spend on attention or chase growth first). Mello and Hormozi agree on price and offers, and split when offer math ignores dispatch, trucks, and tech pay.
+- Mello (fire fast, A players only, performance pay) against Martell and Leila (how much change a team can carry). Mello and Wickman agree on systems with checks.
