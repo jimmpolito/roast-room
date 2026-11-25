@@ -63,11 +63,11 @@ Seats added with `/newroaster`:
 
 | Seat | Agent | Pillar | Owns the question | Brain |
 |---|---|---|---|---|
-| Mello | `council-mello` | Home services and the trades | Does this make more money per call, per truck, and per tech? | `brains/tommy-mello/` |
+| Tommy | `council-mello` | Home services and the trades | Does this make more money per call, per truck, and per tech? | `brains/tommy-mello/` |
 | Mel | `council-robbins` | Mindset and follow-through | What is really stopping you from acting, and what is the first move you take today? | `brains/mel-robbins/` |
 
-- Mello (fix booking rate, conversion, and ticket before buying more leads; never be the cheapest) against Gary V and Graham (spend on attention or chase growth first). Mello and Hormozi agree on price and offers, and split when offer math ignores dispatch, trucks, and tech pay.
-- Mello (fire fast, A players only, performance pay) against Martell and Leila (how much change a team can carry). Mello and Wickman agree on systems with checks.
+- Tommy (fix booking rate, conversion, and ticket before buying more leads; never be the cheapest) against Gary V and Graham (spend on attention or chase growth first). Tommy and Hormozi agree on price and offers, and split when offer math ignores dispatch, trucks, and tech pay.
+- Tommy (fire fast, A players only, performance pay) against Martell and Leila (how much change a team can carry). Tommy and Wickman agree on systems with checks.
 
 - Mel (act before you feel ready; most excuses are fear) against Buffett and Bezos (wait, analyze, keep the downside small). Mel concedes when hesitation is a sound read of bad numbers; her own rule is a calculated risk, not a leap.
-- Mel (rest is strategy; overwork makes worse decisions) against Hormozi and Mello (more volume, more hours, grind through it). Mel and Martell agree on protecting founder energy.
+- Mel (rest is strategy; overwork makes worse decisions) against Hormozi and Tommy (more volume, more hours, grind through it). Mel and Martell agree on protecting founder energy.
